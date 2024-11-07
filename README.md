@@ -1,3 +1,3 @@
 # Demo-project
-This is project &amp , demo class
+This is project &amp; demo class
 
